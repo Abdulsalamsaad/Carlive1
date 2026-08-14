@@ -32,9 +32,7 @@
           Z"/>
 
     <!-- Small gold dot bottom-right for brand mark -->
-    <circle
+    <path
         android:fillColor="#E8A33D"
-        android:cx="68"
-        android:cy="68"
-        android:r="3.5"/>
+        android:pathData="M 68,64.5 A 3.5,3.5 0 1,1 68,71.5 A 3.5,3.5 0 1,1 68,64.5 Z"/>
 </vector>
